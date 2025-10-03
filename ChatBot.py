@@ -4,7 +4,7 @@ from langchain_groq import ChatGroq
 
 #load the env file
 
-load_dotenv()
+load_dotenv(".gitignore/.env")
 
 # streamlit page setup
 
