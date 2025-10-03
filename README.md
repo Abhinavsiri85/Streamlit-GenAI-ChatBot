@@ -25,6 +25,4 @@ https://sl-genai-chatbot.streamlit.app/
 3. User input and prior messages are passed to Groq's LLaMA 3 model using LangChain
 4. The assistant’s response is displayed and appended to the session state
 
-TRY IT OUT! 
-
 ---
